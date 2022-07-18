@@ -1,4 +1,4 @@
-## Video Game Data Analysis
+## Video Game Sales Data Analysis
 
 ## ❓ 데이터 소개
 vgchartz(https://www.vgchartz.com/gamedb/)의 Game DB에서 추출한 데이터에 기초

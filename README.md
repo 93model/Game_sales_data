@@ -41,6 +41,7 @@ vgchartz(https://www.vgchartz.com/gamedb/)의 Game DB에서 추출한 데이터�
 그 외 언어는 유럽(프랑스어 ,독일어, 스페인어)
 
 ![캡처](/img/genre.png)
+
 사람들이 가장 선호하는 장르 (Action, Shooter) / 일본만 RPG
 
 플랫폼은 Playstiaton 근소 우위,

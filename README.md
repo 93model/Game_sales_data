@@ -33,12 +33,14 @@ vgchartz(https://www.vgchartz.com/gamedb/)의 Game DB에서 추출한 데이터�
 
 ->10년 이내(2010 ~), 최소 출고량 10만장 이상으로 분석 대상을 한정
 약 3000개 게임
-
-
 ## ✔️ 결과
+
+![캡처](/img/sales.PNG)
+
 가장 중요한 시장 : North America -> 영어 기본 탑재
 그 외 언어는 유럽(프랑스어 ,독일어, 스페인어)
 
+![캡처](/img/genre.PNG)
 사람들이 가장 선호하는 장르 (Action, Shooter) / 일본만 RPG
 
 플랫폼은 Playstiaton 근소 우위,
